@@ -1,0 +1,9 @@
+package com.pratice;
+
+public class Drink {
+	public static void main(String[] args) {
+		Drink [] drinks = new Drink [10];
+		drink [0] = new Drink("a",15);
+	}
+
+}
